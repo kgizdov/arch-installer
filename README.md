@@ -6,5 +6,5 @@ In the future this will potentially house and awesome interactive installer for 
 ### Needed
 
  - an awesome name (See [#1](/../../issues/1))
- - decide on a framework/language to use
+ - decide on a framework/language to use (See [#2](/../../issues/2))
  - make it work
