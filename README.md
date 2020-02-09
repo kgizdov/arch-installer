@@ -38,7 +38,7 @@ Create an awesome interactive installer for Arch Linux and package it into a com
       - has to be mostly done from scratch
       - more work for accessibility
 
-(&ast;) This is by no means exhaustive list and should only encourage rather than discourage. Applicants are free
+(&ast;) This is by no means an exhaustive list and should only encourage rather than discourage. Applicants are free
 to bring forth their own solution to the task at hand.
 
 ## Test
@@ -124,6 +124,8 @@ the output from `archey3`.
 If the optional taks is attempted, then include the two package files for `archlinux-repro` with name suffixes `.download` and `.repo` for the downloaded and reproduced version respectively.
 
 Once you complete any of the tasks of this exercise, please send and e-mail to: arch@kge.pw
+
+# Footnotes
 
 ## Side Effects
 By simplifying the installation procedure the project will also inadvertently
