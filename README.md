@@ -37,7 +37,8 @@ Create an awesome interactive installer for Arch Linux and package it into a com
       - much more customizable
       - has to be mostly done from scratch
       - more work for accessibility
-&ast; This is by no means exhaustive list and should only encourage rather than discourage. Applicants are free
+
+(&ast;) This is by no means exhaustive list and should only encourage rather than discourage. Applicants are free
 to bring forth their own solution to the task at hand.
 
 ## Test
