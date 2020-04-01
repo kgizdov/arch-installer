@@ -1,4 +1,4 @@
-# arch-installer
+# arch-installer [![Build Status](https://travis-ci.com/kgizdov/arch-installer.svg?branch=master)](https://travis-ci.com/kgizdov/arch-installer)
 An installer for Arch Linux
 
 Create an awesome interactive installer for Arch Linux and package it into a comfortably sized live CD `*.iso` image.
