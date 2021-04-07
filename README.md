@@ -1,3 +1,5 @@
+# IMPLEMENTED PARTIALLY BY [archinstall](https://github.com/archlinux/archinstall). ARCHIVED UNTIL FURTHER NOTICE
+
 # arch-installer [![Build Status](https://travis-ci.com/kgizdov/arch-installer.svg?branch=master)](https://travis-ci.com/kgizdov/arch-installer)
 An installer for Arch Linux
 
